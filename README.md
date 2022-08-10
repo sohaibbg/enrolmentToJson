@@ -1,8 +1,14 @@
 
 
-IBA, Karachi's enrolment schedule is published in a very difficult to navigate spreadsheet file. This code translates the spreadsheet into a json with accessible attributes.
+IBA, Karachi's enrolment schedule is published in a very difficult to navigate spreadsheet file. This code presents you with a CLI to access the aforementioned data. It also translates the spreadsheet into a json with accessible attributes for your custom logic to be applied with the programming language of your choice.
 
-**Guide** All courses are stored in Json form in assets/allCourses.json. Create a new file in the language of your choice (pytho, java, etc.) to view them as filtered by your criteria.
+**Guide**
+
+1. Navigate to the root folder
+2. open a terminal
+3. Enter "dart lib/main.dart"
+You will need the Dart SDK to be installed
+All courses are stored in Json form in assets/allCourses.json.
 
 **Explanation:**
 
@@ -14,6 +20,4 @@ Code is in bin/enrolment_scheduler.dart;
 
 Feel free to fork and submit **pull requests** to implement the following:
 
-    implement "Saturday Only", "Tuesday Only", etc. corner cases in cleanCourses
-    Add user friendly CLI
-
+1. implement "Saturday Only", "Tuesday Only", etc. corner cases in cleanCourses
