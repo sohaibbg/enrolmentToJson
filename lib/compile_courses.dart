@@ -1,16 +1,5 @@
-import 'dart:convert';
-import 'dart:io';
-import 'dart:typed_data';
 // ignore: depend_on_referenced_packages
 import 'package:excel/excel.dart';
-
-void main(List<String> arguments) {
-  String path = 'assets/Undergraduate Fall 2022 Main campus.xlsx';
-  Uint8List bytes = File(path).readAsBytesSync();
-  Excel spreadsheet = Excel.decodeBytes(bytes);
-  List courses = readCourses(spreadsheet);
-  File('assets/allCourses.json').writeAsStringSync(jsonEncode(courses));
-}
 
 List<Map<String, String>> readCourses(Excel spreadsheet) {
   List<Map<String, String>> courses = [];
