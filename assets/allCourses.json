@@ -1,0 +1,5096 @@
+[
+    {
+        "course": "Fundamentals of SCM",
+        "class": "MGT Elective",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BBA-3",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Talha",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BBA-1",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Irfan Muhammad",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Production and Operations Management",
+        "class": "MGT Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Sajjad Mahesri",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures",
+        "class": "BSCS-3",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Ali Raza",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Health Economics",
+        "class": "Eco-Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Dr Uzma Irum",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Syed Farhan Shaukat",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Microeconomic Theory",
+        "class": "BSECO-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Arooj Waheed Dar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Monetary Economics",
+        "class": "Eco-Elective",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr Zulfiqar Haider",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Intermediate Micro.",
+        "class": "BSEM-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Dr Amir Jehan Khan",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab)",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Saqib ur Rehman",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSECO-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Abbas Gillani",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Intermediate Micro.",
+        "class": "BSEM-3",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Syed Kalim Hyder",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I (Lab Sssion for 8:30 ) Friday Only",
+        "class": "BSECO-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Abbas Gillani",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Microeconomic Theory",
+        "class": "BSECO-5",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Dr Amir Jehan Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSECO-5",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Fatima Sadik",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Analytics for Economists",
+        "class": "BSECO-5",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Shafia Imtiaz",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Principles of Management",
+        "class": "MGT Elective",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Dr Yasir kundi",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Institutions & Markets (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSAF-3",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Muniba",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BSCS-1",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Dr Amana",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Modeling (Friday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSAF-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Syed Irfan Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Moiz Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BSAF-3",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Syed Atif Murtaza Qaise",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSCS-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Nosheen Wasi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Moiz Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BSAF-3",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Syed Atif Murtaza Qaise",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSCS-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Nosheen Wasi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Amanullah Sayied",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Naved Bokhari",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Intelligence",
+        "class": "BSS-7 Elective",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab)",
+        "class": "BBA-3",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Saqib ur Rehman",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Human Computer Interaction (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSCS-7",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Asim Ali",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab)",
+        "class": "BBA-3",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Saqib ur Rehman",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Auditing",
+        "class": "BSAF-5",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Moiz Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Regulations & Financial Markets",
+        "class": "BSAF-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Yousuf Saudagar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Nadia Sayeed",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Academic Writing",
+        "class": "BSECO-3",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Maria Hassan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Usman Nazir",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition (Frday Only) 8:30 to 9:45 am & 10:00 to 11:15",
+        "class": "BSCS-1",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Sabina kazi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English over the Ages: History and Reception",
+        "class": "SS -elective",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Anum Dada",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSSS-1",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Samina Wahid Perozani",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Speech Communication",
+        "class": "BSSS-3",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Babur Khan Suri",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Kanwal Akhtar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Nazneen shayeq",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Dr Nadya",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition (Friday Only ) 8:30 TO 9:45 & 10:00 to 11:15 pm",
+        "class": "BSAF-1",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Babur Khan Suri",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design",
+        "class": "BSCS-3",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Dr. S M Faisal Iradat",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design",
+        "class": "BSCS-3",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "M. Usman Arif",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures",
+        "class": "BSCS-3",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Ali Raza",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Shayaan Essa",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Calculus II",
+        "class": "BSECO-3",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Imran Shaheen",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Culminating Experience – I Friday Only (8:30 - 9:45pm & 10 - 11:15 pm)",
+        "class": "BSSS-7",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Aliya Iqbal Naqvi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Microeconomic Theory",
+        "class": "BSECO-5",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Fatima Sadik",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Kanza Sohail",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Reserved for CED",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Regulations & Financial Markets",
+        "class": "BSAF-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Yousuf Saudagar",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Culminating Experience – I Friday Only (8:30 - 9:45pm & 10 - 11:15 pm)",
+        "class": "BSSS-7",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Rahma Mian",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "German - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Irfan Samad Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "History of Economic Thought",
+        "class": "BSECO-7",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Javeria Abbasi",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Cloud Computing (Saturday Only ) ( 10:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSCS-7 Elective",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Shahab Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Shumaila Omar",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "International Finance",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Dr. Fawad",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Zunaira Nadeem",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSMATH-1",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Art of The Islamic World",
+        "class": "BSSS,5,6,7,8",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Seher Ali Shah",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Qaisar Mughal",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Data Minining",
+        "class": "BSCS-5 Elective",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Sajjad Haider",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSCS-1",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Samina Wahid Perozani",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Ahtisham Abid",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Database Systems",
+        "class": "BSCS-5",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Samreen Kazi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Arabic - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Ahmed Abdul Ghani",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1",
+        "class": "BSSS-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Madiha Mukhtar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Database Systems",
+        "class": "BSCS-5",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Anwar ul Haq",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Arabic - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Syed Farid Iqbal",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Sobia Akber",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Database Systems",
+        "class": "BSCS-5",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Maria Rahim",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "German - 1",
+        "class": "BSSS-3",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Irfan Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures",
+        "class": "BSCS-3",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Quratulain Rajput",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BSCS-1",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Dr. wahab Suri",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Institutions & Markets",
+        "class": "BSAF-3",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Nooruddin Muzaffar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "The Central Thesis",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Shayaan Essa",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Academic Writing",
+        "class": "BSECO-3",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Bilal Mushtaq",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Competative Programming Monday Only 8:30 am to 9:45 am & 10:00 am to 11:15 am",
+        "class": "BSCS-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Imran Rauf",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Competitive Programming Tuesday Only 8:30 am to 9:45 am & 10:00 am to 11:15 am",
+        "class": "BSCS-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Competative Programming Wednesday Only 8:30 am to 9:45 am & 10:00 am to 11:15 am",
+        "class": "BSCS-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Imran Rauf",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Essential Software",
+        "class": "BSEM-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Nasir Touheed",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project",
+        "class": "BSCS-7",
+        "room": "",
+        "erp": "",
+        "teacher": "Tahir Syed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Essential Software",
+        "class": "BSEM-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Nasir Touheed",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project",
+        "class": "BSCS-7",
+        "room": "",
+        "erp": "",
+        "teacher": "Tahir Syed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design (4:00 pm session) (Lab) Wednesday Only 8:30 am to 9:45 am & 10:00 to 11:15 am",
+        "class": "BSCS-3",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Salman Zafar",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project",
+        "class": "BSCS-7",
+        "room": "",
+        "erp": "",
+        "teacher": "Tahir Syed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design (4:00 pm session) (Lab) Monday Only 8:30 am to 9:45 am & 10:00 to 11:15 am",
+        "class": "BSCS-3",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Muhammad Zain Uddin",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project",
+        "class": "BSCS-7",
+        "room": "",
+        "erp": "",
+        "teacher": "Tahir Syed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project",
+        "class": "BSCS-7",
+        "room": "",
+        "erp": "",
+        "teacher": "Tahir Syed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "FYP (Economics or Maths)",
+        "class": "BSEM-7",
+        "room": "",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project (Economics or Mathematics)",
+        "class": "BSEM-7",
+        "room": "",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Final Year Project (Economics or Mathematics)",
+        "class": "BSEM-7",
+        "room": "",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Personal Effectiveness - at City Campus BBA-7(erp # ( ), AF-7 (erp # )",
+        "class": "",
+        "room": "",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Methods of Business Research",
+        "class": "BBA-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "D. Mohsin",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BBA-3",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Talha",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSAF-1",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Nosheen Wasi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Islamic Banking & Finance",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Irum Saba",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Microeconomic Theory",
+        "class": "BSECO-5",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Aqsa Jawed",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Poverty and Income Distribution",
+        "class": "Eco-Elective",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr Lubna Naz",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Microeconomic Theory",
+        "class": "BSECO-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr Amir Jehan Khan",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Behavioral Economics",
+        "class": "Eco-Elective",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Nadeem Sarwar",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Dr. Sahar Awan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Aimen Batool",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I (Lab Sssion for 10:00 ) Friday Only",
+        "class": "BSECO-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Abbas Gillani",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSECO-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Abbas Gillani",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Auditing",
+        "class": "BSAF-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Mohsin Patel",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Auditing (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-5",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Khurram Amanullah",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures",
+        "class": "BSCS-3",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Quratulain Rajput",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I (Lab Sssion for 8:30 ) Tuesday Only",
+        "class": "BSECO-5",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Fatima Sadik",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Institutions & Markets (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSAF-3",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Muniba",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSECO-1",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Humaira Naz",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Research Methods for Eco.",
+        "class": "BSEM-7",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Masood Siddiqui",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Modeling (Friday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSAF-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Syed Irfan Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Dr Sara Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Social and Cultural Anthropology",
+        "class": "BSSS-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Dr Abdul Haque Chang",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Sharjeel Hasnie",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSEM-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Dr. Jaffar Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Social and Cultural Anthropology",
+        "class": "BSSS-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Dr Abdul Haque Chang",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Sharjeel Hasnie",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSEM-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Dr. Jaffar Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Social and Cultural Anthropology",
+        "class": "BSSS-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Dr Abdul Haque Chang",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BBA-1",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Irfan Muhammad",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Saman Khalid",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Advanced Taxation",
+        "class": "BSAF-7 Elective",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Haroon Tabraze",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Probability and Statistical Models (Saturday Only ) 10:00 am to 11:15 & 11:30 to 12:45 pm",
+        "class": "BSEM-Transf",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Zohaib Aziz",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Saman Khalid",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Advanced Taxation",
+        "class": "BSAF-7 Elective",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Haroon Tabraze",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Amanullah Sayied",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Naved Bokhari",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Human Computer Interaction (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Asim Ali",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Management",
+        "class": "BSAF-3",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Mohsin Sadaqat",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Research Methods for Eco. Thursday Only 10:00am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSEM-7",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Dr Muhammad Nasir",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Statistical Inference",
+        "class": "BSSS-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Jawaid Iqbal",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Auditing",
+        "class": "BSAF-5",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Moiz Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Regulations & Financial Markets",
+        "class": "BSAF-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Yousuf Saudagar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSCS-1",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Shumaila Omar",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Reading the City-Intersections of climate, architecture, and urban morphology in cities of the Global South",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Soha Macktoom",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Nadia Sayeed",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition (Friday Only) 8:30 to 9:45 am & 10:00 to 11:15",
+        "class": "BSCS-1",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Sabina kazi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Academic Writing",
+        "class": "BSECO-3",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Maria Hassan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Usman Nazir",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSSS-1",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Samina Wahid Perozani",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Academic Writing",
+        "class": "BSEM-3",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Ramsha Siddiqui",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Sarah Mazhar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Tazeen Erum",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Academic Writing",
+        "class": "BSEM-3",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Tazeen Erum",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Kanwal Akhtar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition (Friday Only ) 8:30 TO 9:45 & 10:00 to 11:15 pm",
+        "class": "BSAF-1",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Babur Khan Suri",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Philosophy, Logic and Ethics",
+        "class": "BBA-1",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Dr Amana",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Nazneen shayeq",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Dr Nadya",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Statistical Inference with Econometrics Lab. (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-3",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Muhammad Najam",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Regulations & Financial Markets",
+        "class": "BSAF-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Yousuf Saudagar",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Memory and Attention",
+        "class": "BSSS,6,7,8",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Dr. Sahar Nadeem Hamid",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Culminating Experience – I Friday Only (8:30 - 9:45pm & 10 - 11:15 pm)",
+        "class": "BSSS-7",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Aliya Iqbal Naqvi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Shayaan Essa",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Auditing",
+        "class": "BSAF-5",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Abdul Basit",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Reserved for CED",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Sharjeel Hasnie",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Kanza Sohail",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Culminating Experience – I Friday Only (8:30 - 9:45pm & 10 - 11:15 pm)",
+        "class": "BSSS-7",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Rahma Mian",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Asad Ilyas",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Calculus II",
+        "class": "BSECO-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Maqsood Alam",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Cloud Computing (Saturday Only ) ( 8:30am to 9:45 & 10:00 to 11:15 am)",
+        "class": "BSCS-7 Elective",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Shahab Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "German - 1 (Lab for 8:30 am to 9:45 section) Mon Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Irfan Samad Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "History of Economic Thought",
+        "class": "BSECO-7",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Javeria Abbasi",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSECO-1",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Amna Motala",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Shumaila Omar",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "International Finance",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Dr. Fawad",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Zunaira Nadeem",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Energy System and Policy (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "Eco-Elective",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Syed Salman Tariq",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSEM-1",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Sarah Mazher",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Calligraphy course",
+        "class": "BSSS-5,6,7,8",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Seher Ali Shah",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Watching Films",
+        "class": "BSSS,6,7,8",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Zehra Nabi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1 {Lab for 8:30 am to 9:45 section) Wed Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Qaisar Mughal",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Data Minining",
+        "class": "BSCS-5 Elective",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Sajjad Haider",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Borders and Boundaries: South Asian and Middle Eastern Feminist Fiction",
+        "class": "SS-elective,,5,6,7,8",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Irum Iqbal",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1 (Lab for 8:30 am to 9:45 section) Mon Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Ahtisham Abid",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Game Design and Development",
+        "class": "BSCS-5 Elective",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Umair Azfar Khan",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History (Friday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Saqib Ahmad",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSCS-1",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Anum Dada",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History (Friday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Saqib Ahmad",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Amna Motala",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSECO-1",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Saqib Ahmad",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Arabic - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Ahmed Abdul Ghani",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1 (Lab for 8:30 am to 9:45 section) Tuesday Only",
+        "class": "BSSS-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Madiha Mukhtar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Chinese - 1 (Lab for 8:30 am to 9:45 section) Thursday Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Sobia Akber",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Arabic - 1 (Lab for 8:30 am to 9:45 section) Mon Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Syed Farid Iqbal",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Institutions & Markets",
+        "class": "BSAF-3",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Sohaib Butt",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "German - 1 (Lab for 8:30 am to 9:45 section) Wed Only",
+        "class": "BSSS-3",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Irfan Khan",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Consumer Behaviour",
+        "class": "MKT Elective",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Dr. Saima",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Introduction to Data Minining",
+        "class": "BSCS-5 Elective",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Solat Jabeen",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Financial Institutions & Markets",
+        "class": "BSAF-3",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Nooruddin Muzaffar",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistani Contemporary Literature in English",
+        "class": "BSSS,5,6,7,8",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Safia Mehmood",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Shayaan Essa",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Database Systems (8:30 session) (Lab) Friday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-5",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Maria Rahim",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Statistical Inference",
+        "class": "BSSS-3",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Jawaid Iqbal",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design (8:30 sessin) (Lab) Wednesday Only 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "M. Usman Arif",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Competative Programming Monday Only 8:30 am to 9:45 am & 10:00 am to 11:15 am",
+        "class": "BSCS-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Imran Rauf",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Competitive Programming Tuesday Only 8:30 am to 9:45 am & 10:00 am to 11:15 am",
+        "class": "BSCS-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures (Lab) Friday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Ali Raza",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Competative Programming Wednesday Only 8:30 am to 9:45 am & 10:00 am to 11:15 am",
+        "class": "BSCS-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Imran Rauf",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design (4:00 pm session) (Lab) Wednesday Only 8:30 am to 9:45 am & 10:00 to 11:15 am",
+        "class": "BSCS-3",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Salman Zafar",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures (Lab) Monday Only 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Ali Raza",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Database Systems (8:30 session) (Lab) Friday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Hareem Qazi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSECO-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Dr Heman Das Lohano",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Data Structures (Lab) Monday Only 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Quratulain Rajput",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Database Systems (8:30 session) (Lab) Saturday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Samreen Kazi",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Digital Logic Design (4:00 pm session) (Lab) Monday Only 8:30 am to 9:45 am & 10:00 to 11:15 am",
+        "class": "BSCS-3",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Muhammad Zain Uddin",
+        "dayPair": "M/W",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BBA-3",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Ms. Rimsha",
+        "dayPair": "T/T",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Personal Effectiveness - at City Campus BBA-7(erp # ), AF-7 (erp # )",
+        "class": "",
+        "room": "",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "8:30-9:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSSS-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Dr. S Akbar Zaidi",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Auditing",
+        "class": "BSAF-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Mohsin Patel",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam (Saturday Only ) ( 11:30 am to 12:45 & 1:00 to 2:15 PM)",
+        "class": "BBA-1",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Irfan Muhammad",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSSS-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Dr. S Akbar Zaidi",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Data Analytics for Economists",
+        "class": "BSECO-5",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Sadia Mehboob",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Amer Iqbal Awan",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Modeling (Saturday Only ) ( 11:30 am to 12:45 & 1:00 to 2:15 PM)",
+        "class": "BSAF-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Ammar Habib",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Nyla Aleem Ansari / TBA",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Aimen Batool",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Modeling (Friday Only ) ( 11:30am to 12:45 & 1:00 to 2:15 pm)",
+        "class": "BSAF-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Syed Irfan Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Methods of Business Research",
+        "class": "BBA-5",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Dr. Farah",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Data Analytics for Economists",
+        "class": "BSECO-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Nadeem Sarwar",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Applied Econometrics I (Lab Sssion for 11:30 ) Friday Only",
+        "class": "BSEM-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Abbas Gillani",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr. Yasir Kundi",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Data Analytics for Economists",
+        "class": "BSECO-5",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Dr Asim Bashir",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Auditing (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-5",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Khurram Amanullah",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Dr. Sara Khan",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Institutions & Markets (Saturday Only ) ( 11:30am to 12:45 & 1:00 to 2:15 Pm)",
+        "class": "BSAF-3",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Muniba",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSEM-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Dr Abbas Gillani",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Muhammad Azam",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSSS-3",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Sajjad Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Reporting",
+        "class": "BSAF-5 Elective",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Sharjeel Hasnie",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Advanced Taxation",
+        "class": "BSAF-7 Elective",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Haroon Tabraze",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSEM-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Dr. Jaffar Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Advanced Taxation",
+        "class": "BSAF-7 Elective",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Haroon Tabraze",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSEM-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Dr. Jaffar Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Islamic Banking & Finance",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Irum Saba",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Portfolio Management",
+        "class": "BBA\\ACF- 7 Elective",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Dr. Ashraf",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Probability and Statistical Models (Saturday Only ) 10:00 am to 11:15 & 11:30 to 12:45 pm",
+        "class": "BSEM-Transf",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Zohaib Aziz",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Moiz Khan",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Management",
+        "class": "BSAF-3",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Mohsin Sadaqat",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History (Friday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Saqib Ahmad",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BSECO-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Moiz Khan",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Research Methods for Eco. Thursday Only 10:00am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSEM-7",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Dr Muhammad Nasir",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History (Friday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-1",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Saqib Ahmad",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "International business",
+        "class": "Mgt Eective",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Dr . M Ayaz",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Reserved for graduate",
+        "class": "",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Statistical Inference",
+        "class": "BSSS-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Jawaid Iqbal",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Introduction to Statistics",
+        "class": "BSECO-1",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Shabana Nisar",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSAF-5",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Talat Hameed Davis",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab)",
+        "class": "BBA-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Javed Iqbal",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "History and Systems of Psychology",
+        "class": "BSSS-5",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Saima Saif",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Political Systems and Political Regimes",
+        "class": "BSSS-5",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Nausheen wasi",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSCS-5",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Sarah Mazhar",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Partial Differential Equations",
+        "class": "BSEM-7",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Ahmad Raza",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Numerical Analysis",
+        "class": "BSCS-3",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Dr.Abdul Majid",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Tazeen Erum",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Calculus II",
+        "class": "BSECO-3",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Maqsood Alam",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "French - 1",
+        "class": "BBA-5/NS",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Leroy Johns",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Syed Farhan Shaukat",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-12",
+        "erp": "6133",
+        "teacher": "Tazeen Erum",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "BRAND MANAGEMENT",
+        "class": "MKT Elective",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Dr. Farah",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Nazneen shayeq",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "French - 1",
+        "class": "BBA-5/NS",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Leroy Johns",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Database Systems",
+        "class": "BSCS-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Imran Khan",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Statistical Inference with Econometrics Lab. (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSAF-3",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Muhammad Najam",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Discrete Mathematics",
+        "class": "BSEM-3",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Shoaib Jamall",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Auditing",
+        "class": "BSAF-5",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Abdul Basit",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Database Systems",
+        "class": "BSCS-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Anwar ul Haq",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Reserved for CED",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "The Questions of Citizenship and the Post-colonial Subject",
+        "class": "BSSS-5,6,7,8",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Palvasha Shehab",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Management and Organizational Behavior",
+        "class": "BSAF-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Syed Ameer Rizvi",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BSAF-3",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Dr. Nida",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Software Engineering",
+        "class": "BSCS-5",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Umair Azfar Khan",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Management and Organizational Behavior",
+        "class": "BSAF-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Syed Ameer Rizvi",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Software Engineering",
+        "class": "BSCS-5",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Sharaf Hussain",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSECO-1",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Amna Motala",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Management and Organizational Behavior",
+        "class": "BSAF-3",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Usman Nazir",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Software Engineering",
+        "class": "BSCS-5",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Naveen Quazilbash",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Operating Systems",
+        "class": "BSCS-5",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Tahir Sayed",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Cont. Issues in Global Eco.",
+        "class": "BSECO-TRANSF",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Asad Bilal Rizvi",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Energy System and Policy (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "Eco-Elective",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Syed Salman Tariq",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Operating Systems",
+        "class": "BSCS-5",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Masood Abbasi",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "History of Political Thought",
+        "class": "BSSS-5",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Yumna fatima",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSECO-1",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Zehra Nabi",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Operating Systems",
+        "class": "BSCS-5",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Asma Larik",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Methods of Business Research",
+        "class": "BBA-5",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Dr. Beenish",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "French - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Saifullah Shaikh",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSCS-1",
+        "room": "MTC-22",
+        "erp": "6134",
+        "teacher": "Irum Iqbal",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "BRAND MANAGEMENT",
+        "class": "MKT Elective",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Dr. Nida",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MTC-23",
+        "erp": "6135",
+        "teacher": "Amna Motala",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Financial Institutions & Markets",
+        "class": "BSAF-3",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Sohaib Butt",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Madeeha Omer",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "German - 2",
+        "class": "NS/Trans",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Irfan Khan",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab)",
+        "class": "BBA-3",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Amir Bashir",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Multivariable Calculus",
+        "class": "BSEM-3",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Danish Ali",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Urban Mental Health",
+        "class": "BSSS-5,6,7,8",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Ayesha Zia and Adam Abdullah",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Topics in Historiography",
+        "class": "BSSS-5",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Zahra Sabri",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Pakistan History (Saturday Only ) 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSECO-1",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Saqib Ahmad",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Discrete Mathematics",
+        "class": "BSEM-3",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Muhammad Yousuf Tufai",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Digital Logic Design (8:30 sessin) (Lab) Wednesday Only 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "M. Usman Arif",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Database Systems (8:30 session) (Lab) Friday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-5",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Maria Rahim",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Database Systems",
+        "class": "BSCS-5",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Imran Khan",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Mathematical Economics",
+        "class": "BSECO-5",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Dr Nasir Touheed",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Data Structures (Lab) Monday Only 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Ali Raza",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Data Structures (Lab) Friday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Ali Raza",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Programming for Finance",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Sohaib Butt",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Data Structures (Lab) Monday Only 10:00 AM TO 11:15 & 11:30 AM to 12:45 pm",
+        "class": "BSCS-3",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Quratulain Rajput",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Database Systems (8:30 session) (Lab) Friday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Hareem Qazi",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Linear Algebra Monday Only 11:30 to 12:45 & 1:00 to 2:15 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Saima Gul",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Database Systems (8:30 session) (Lab) Saturday Only 10:00 am to 11:15 & 11:30 am to 12:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Samreen Kazi",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Digital Logic Design (Lab) Wednesday Only 11:30 to 12:45 & 1:00 to 2:15 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Dr. S M Faisal Iradat",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BBA-3",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Ms. Rimsha",
+        "dayPair": "T/T",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Probability and Statistical Models",
+        "class": "BSEM-Transf",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "F/S",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSECO-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Dr Heman Das Lohano",
+        "dayPair": "M/W",
+        "currentSlot": "10:00-11:15"
+    },
+    {
+        "course": "CDC Activities",
+        "class": "",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "CDC Activities",
+        "class": "",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Nyla Aleem Ansari / TBA",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BBA-3",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Asim",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam (Saturday Only ) ( 11:30 am to 12:45 & 1:00 to 2:15 PM)",
+        "class": "BBA-1",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Irfan Muhammad",
+        "dayPair": "F/S",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Dr. Sahar Awan",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Data Analytics for Economists",
+        "class": "BSECO-5",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Sadia Mehboob",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Human Resource Management",
+        "class": "BBA-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr. Yasir Kundi",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Portfolio Management",
+        "class": "BBA\\ACF- 7 Elective",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr. Ashraf",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Modeling (Saturday Only ) ( 11:30 am to 12:45 & 1:00 to 2:15 PM)",
+        "class": "BSAF-5",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Ammar Habib",
+        "dayPair": "F/S",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Intermediate Micro.",
+        "class": "BSECO-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Arooj Waheed Dar",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Dr Shahid Mir",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Modeling (Friday Only ) ( 11:30am to 12:45 & 1:00 to 2:15 pm)",
+        "class": "BSAF-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Syed Irfan Ahmed",
+        "dayPair": "F/S",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Intermediate Micro.",
+        "class": "BSECO-3",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Aqsa Jawed",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Recruitment and Selection Techniques",
+        "class": "BBA 6,7,HR Elective",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Dr Sara Khan",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Applied Econometrics I",
+        "class": "BSEM-5",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Fatima Sadik",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Mathematical Economics",
+        "class": "BSECO-5",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Dr Ilfan Oh",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Institutions & Markets (Saturday Only ) ( 11:30am to 12:45 & 1:00 to 2:15 Pm)",
+        "class": "BSAF-3",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Muniba",
+        "dayPair": "F/S",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Real Analysis I",
+        "class": "BSEM-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Hira Ashraf Baig",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Muhammad Azam",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BBA-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Fasih Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BBA-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Fasih Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Pakistan History",
+        "class": "BBA-3",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "Fasih Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Derivatives Tuesday Only 1:00 pm to 2:15 pm & 2:30 to 3:45 pm",
+        "class": "BBA/AF-7",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Arif Irfanullah",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Tahira Jaffry",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Derivatives Tuesday Only 1:00 pm to 2:15 pm & 2:30 to 3:45 pm",
+        "class": "BBA/AF-7",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Arif Irfanullah",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Tahira Jaffry",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Management",
+        "class": "BSAF-3",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Nauman Amin",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Management",
+        "class": "BSAF-3",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Mohsin Sadaqat",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Modeling",
+        "class": "BSAF-5",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Syed Irfan Ahmed",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Women and Gender in South Asian History",
+        "class": "",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Ramsha Siddiqui",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Methods of Business Research",
+        "class": "BBA-5",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Dr. Farah",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Reserved for graduate",
+        "class": "",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Creative Writing",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Maria Haqqani",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Critical Theories and Methods",
+        "class": "BSSS-5",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Rahma Mian",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Human Development",
+        "class": "BSSS-5",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Hajrah Rahman",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Speech Communication",
+        "class": "BSSS-3",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Tehmina Qureshi",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Tehmina Qureshi",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "French - 1 ( Lab for section 11:30 am to 12:45) Wed Only",
+        "class": "BBA-5/NS",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Leroy Johns",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "French - 1 ( Lab for section 11:30 to 12:45) Tuesday Only",
+        "class": "BBA-5/NS",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Leroy Johns",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "From Empires to Nation-States: A History of the Pre-20th Century World",
+        "class": "BSSS-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Aliya Iqbal Naqvi",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BSAF-3",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Ms. Yasmin Zafar",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Arabic - 1 ( Lab for section 8:30 to 9:45) Monday Only",
+        "class": "BBA-5/NS",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Ahmed Abdul Ghani",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Software Engineering",
+        "class": "BSCS-5",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Naveen Quazilbash",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Arabic - 1 ( Lab for section 10:00 am to 11:15) Monday Only",
+        "class": "BBA-5/NS",
+        "room": "",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Zaira Anees",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Principles of Marketing",
+        "class": "BSAF-3",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Dr. Nida",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Reserved for CED",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Management and Organizational Behavior",
+        "class": "BSAF-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Syed Ameer Rizvi",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Management and Organizational Behavior",
+        "class": "BSAF-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Syed Ameer Rizvi",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Management and Organizational Behavior",
+        "class": "BSAF-3",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Usman Nazir",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "DIGITAL MARKETING",
+        "class": "MKT Elective",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Dr. Beenish",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Operating Systems",
+        "class": "BSCS-5",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Tahir Sayed",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Software Engineering",
+        "class": "BSCS-5",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Sharaf Hussain",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Operating Systems",
+        "class": "BSCS-5",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Adil Salim",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Cont. Issues in Global Eco.",
+        "class": "BSECO-TRANSF",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Asad Bilal Rizvi",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Theory of Automata",
+        "class": "BSCS-4",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Asma Larik",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "CS elective",
+        "class": "BSCS-7",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSCS-1",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Irum Iqbal",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "CS elective",
+        "class": "BSCS-7",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Theory of Automata",
+        "class": "BSCS-4",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Shahid Hussain",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "French - 1 ( Lab for section 11:30 to 12:45) Tuesday Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Saifullah Shaikh",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Madeeha Omer",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Madeeha Omer",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Positive Psychology",
+        "class": "BSSS,6,7,8",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Dr Ayesha Zia",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Introduction to Differential Equations",
+        "class": "BSEM-5",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Maqsood Alam",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Mathematical Economics",
+        "class": "BSECO-5",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Shahzad Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "German - 2 ( Lab for section 8:30 to 9:45) Thurs Only",
+        "class": "NS/Trans",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Irfan Khan",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Financial Management",
+        "class": "BSAF-3",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Nauman Amin",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Multivariable Calculus",
+        "class": "BSEM-3",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Danish Ali",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Corporate Finance",
+        "class": "BSAF-7 Elective",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Dr. Mohsin Khwaja",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Programming for Finance",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Sohaib Butt",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Linear Algebra Monday Only 11:30 to 12:45 & 1:00 to 2:15 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Saima Gul",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Database Systems (11:30 am session) (Lab) Tuesday Only 1:00 pm to 2:15 pm & 2:30 pm to 3:45 pm",
+        "class": "BSCS-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Imran Khan",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Digital Logic Design (Lab) Wednesday Only 11:30 to 12:45 & 1:00 to 2:15 pm",
+        "class": "BSCS-3",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Dr. S M Faisal Iradat",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Database Systems (11:30 am session) (Lab) Monday Only 1:00 pm to 2:15 pm & 2:30 pm to 3:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Imran Khan",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Database Systems (11:30 am session) (Lab) Wednesday Only 1:00 pm to 2:15 pm & 2:30 pm to 3:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Hareem Qazi",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "CDC Activities",
+        "class": "",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "M/W",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "CDC Activities",
+        "class": "",
+        "room": "AUDITORIUM",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "T/T",
+        "currentSlot": "11:30-12:45"
+    },
+    {
+        "course": "Managerial Policy",
+        "class": "BBA-7",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Kamil Shahbazkar",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Methods of Business Research",
+        "class": "BBA-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Dr. Asim",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Intermediate Micro.",
+        "class": "BSECO-3",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Arooj Waheed Dar",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "International Trade",
+        "class": "BSEM-7",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Dr Aadil Nakhuda",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Treasury & Funds Management Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Tabrez",
+        "dayPair": "F/S",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Dr Shahid Mir",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Amer Iqbal Awan",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Venture Capital and Financial Innovation Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Jawwad Farid",
+        "dayPair": "F/S",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Muhammad Azam",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Organizational Behavior",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Dr Shahid Mir",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab) Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Saqib ur Rehman",
+        "dayPair": "F/S",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Chinese - 2",
+        "class": "NS\\Trnsf",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Ammad Naeem",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Linear Algebra Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BSCS-3",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Muhammad Yousuf Tufail",
+        "dayPair": "F/S",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Dr Babur Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Midhat Kidwai",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Linear Algebra Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BSCS-3",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Saima Gul",
+        "dayPair": "F/S",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Network Security",
+        "class": "BSCS-5 Elective",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Faisal Iradat",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Mathematical Economics",
+        "class": "BSECO-5",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Dr Ilfan Oh",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Business Communication Saturday Only (2:30 - 3:45pm & 4 - 5:15 pm)",
+        "class": "BSAF-5",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Fatima Hatim Anjary",
+        "dayPair": "F/S",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab) Monday Only 2:30 pm to 3:45 pm and 4:00 pm to 5:15 pm",
+        "class": "BBA-3",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Farah Yasmeen",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Microeconomic Theory",
+        "class": "BSECO-5",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Aqsa Jawed",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Tahira Jaffry",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Derivatives Tuesday Only 1:00 pm to 2:15 pm & 2:30 to 3:45 pm",
+        "class": "BBA/AF-7",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Arif Irfanullah",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Introduction to Business Finance",
+        "class": "BBA-3",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Tahira Jaffry",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Derivatives Tuesday Only 1:00 pm to 2:15 pm & 2:30 to 3:45 pm",
+        "class": "BBA/AF-7",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Arif Irfanullah",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Applied Econometrics I Lab session Monday Only",
+        "class": "BSEM-5",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Fatima Sadik",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Financial Management",
+        "class": "BSAF-3",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Nauman Amin",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "History of Art: Foundational Survey Monday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS,5,6,7,8",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Nageen Shaikh",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Financial Modeling",
+        "class": "BSAF-5",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Syed Irfan Ahmed",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Communication for Social Change (elective, poli sci elective)",
+        "class": "BSSS,5,6,7,8",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Shehram Mukhtar",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Statistical Inference with Econometrics Lab.",
+        "class": "BSAF-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Zohaib Aziz",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Numerical Analysis",
+        "class": "BSCS-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Dr.Abdul Majid",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Water Infrastructures and Development",
+        "class": "BSSS,5,6,7,8",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Saba Aslam",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Business Communication",
+        "class": "BSCS-5",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Talat Hameed Davis",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSSS-1",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Babur Khan Suri",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Personality Psychology",
+        "class": "BSSS,5,6,7,8",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Hajrah Rahman",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Speech Communication",
+        "class": "BSSS-3",
+        "room": "MCC-11",
+        "erp": "",
+        "teacher": "Tehmina Qureshi",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BBA-1",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Nassera Naushad Ali",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "International Relations",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Yumna fatima",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSEM-1",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Sara usman",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "International Relations",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Dr. Bilal Munshi",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Arabic - 1",
+        "class": "BBA-5/NS",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Mr. M. Abdullah Yousuf Khan",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Zaira Anees",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Zaira Anees",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Reserved For CS Studets",
+        "class": "",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Human Computer Interaction",
+        "class": "BSCS-7",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Dr. Shakeel Khoja",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Art and Science Tuesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Nageen Shaikh",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Human Computer Interaction",
+        "class": "BSCS-7",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Dr. Shakeel Khoja",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Linear Algebra",
+        "class": "BSECO-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Junaid Alam Khan",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Annie Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Annie Ahmed",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Arabic - 1",
+        "class": "BSSS-3",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Mr. Muhammad Naeem",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Arabic - 2",
+        "class": "NS\\Trnsf",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Mr. Ubaid-ur-Rehman",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Language, History, and Politics",
+        "class": "SS-elective,,5,6,7,8",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Zahra Sabri",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "French - 1",
+        "class": "BSSS-3",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Saifullah Shaikh/Leroy Johns",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "French - 2",
+        "class": "NS/Trans",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Leroy Johns/ Saifullah Shaikh",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "The City",
+        "class": "SS-elective,,5,6,7,8",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Adam Abdullah",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Numerical Analysis",
+        "class": "BSCS-3",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Muhammad Shahid Ashraf",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Feminist Legal Theory and Practice",
+        "class": "SS-elective,,5,6,7,8",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Abira Ashfaq",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Science and Religion",
+        "class": "SS-elective,,5,6,7,8",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Dr Moiz Hassan",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Linear Algebra",
+        "class": "BSCS-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Hisham bin Zubair Syed",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "German - 1",
+        "class": "BBA-5/NS",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Rizwan Hussain",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Mathematical Economics",
+        "class": "BSECO-5",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Shahzad Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Partial Differential Equations",
+        "class": "BSEM-7",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Ahmad Raza",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Managerial Policy",
+        "class": "BBA-7",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Dr. Shoaib ul Haq",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Corporate Finance",
+        "class": "BSAF-7 Elective",
+        "room": "MTC-28",
+        "erp": "",
+        "teacher": "Dr. Mohsin Khwaja",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Data Structures Lab Wednesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSCS-3",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Quratulain Rajput",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "College Algebra",
+        "class": "For all Programs-1",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Samreen Zaman",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Speech Communication",
+        "class": "BSSS-3",
+        "room": "MCL-2",
+        "erp": "",
+        "teacher": "Syed Farhan Shaukat",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Computational Research Methods Monday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Prof Junaid Memon",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Database Systems (11:30 am session) (Lab) Tuesday Only 1:00 pm to 2:15 pm & 2:30 pm to 3:45 pm",
+        "class": "BSCS-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Imran Khan",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Computational Research Methods Wednesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Prof Junaid Memon",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Computational Research Methods Tuesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Prof Junaid Memon",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Database Systems (11:30 am session) (Lab) Monday Only 1:00 pm to 2:15 pm & 2:30 pm to 3:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Imran Khan",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Database Systems (11:30 am session) (Lab) Wednesday Only 1:00 pm to 2:15 pm & 2:30 pm to 3:45 pm",
+        "class": "BSCS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Hareem Qazi",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Data Manipulation & Visualizat",
+        "class": "MKT Elective",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Mustafa Mumtaz",
+        "dayPair": "T/T",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Topics in Number Theory",
+        "class": "BSEM-7,8",
+        "room": "Offering from Graduate PO",
+        "erp": "",
+        "teacher": "Dr. Raziuddin",
+        "dayPair": "M/W",
+        "currentSlot": "1:00-2:15"
+    },
+    {
+        "course": "Managerial Policy",
+        "class": "BBA-7",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Kamil Shahbazkar",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Managerial Policy",
+        "class": "BBA-7",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Shahid Zaki",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Methods of Business Research",
+        "class": "BBA-5",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "D. Mohsin",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Managerial Policy",
+        "class": "BBA-7",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Dr. Shoaib ul Haq",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Treasury & Funds Management Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Tabrez",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Managerial Policy",
+        "class": "BBA-7",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Linear Algebra",
+        "class": "BSECO-3",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Zulfiquar Khan",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Real Analysis I",
+        "class": "BSEM-5",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Muhammad Shahid Qureshi",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "International Trade",
+        "class": "BSEM-7",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Dr Aadil Nakhuda",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab) Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BBA-3",
+        "room": "MAC-4",
+        "erp": "",
+        "teacher": "Saqib ur Rehman",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Chinese - 2 ( Lab for section 2:30 pm to 3:45 pm) Wed Only",
+        "class": "NS\\Trnsf",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Ammad Naeem",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Real Analysis I",
+        "class": "BSEM-5",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Muhammad Shahid Qureshi",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Linear Algebra Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BSCS-3",
+        "room": "MAC-5",
+        "erp": "",
+        "teacher": "Muhammad Yousuf Tufail",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Dr Babur Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Urban Management in the Global South",
+        "class": "BSSS,5,6,7,8",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Sharmeen Talpur",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Linear Algebra Saturday Only 2:30 to 3:45 & 4:00 pm to 5:15",
+        "class": "BSCS-3",
+        "room": "MAC-6",
+        "erp": "",
+        "teacher": "Saima Gul",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Digital Activism and Democracy",
+        "class": "BSSS,5,6,7,8",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Shahzeb Ahmed Hashim",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Business Communication Saturday Only (2:30 - 3:45pm & 4 - 5:15 pm)",
+        "class": "BSAF-5",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Fatima Hatim Anjary",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Statistical Inference (with econometrics lab) Monday Only 2:30 pm to 3:45 pm and 4:00 pm to 5:15 pm",
+        "class": "BBA-3",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Farah Yasmeen",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "DIGITAL MARKETING",
+        "class": "MKT Elective",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Sumayyah",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Intro to Trade Marketing Saturday Only 4:00 pm to 5:15 & 5:30 6:45 pm",
+        "class": "MKT Elective",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Ali Umer Usmani",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Introduction to Marketing Anal",
+        "class": "MKT Elective",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Sumayyah",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Introduction to Marketing Anal",
+        "class": "MKT Elective",
+        "room": "EVENT HALL",
+        "erp": "",
+        "teacher": "Sumayyah",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Culture and Power in human societies",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MAS-1",
+        "erp": "",
+        "teacher": "Shehram Mokhtar",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "History of Art: Foundational Survey Monday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS,5,6,7,8",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Nageen Shaikh",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Human Computer Interaction (Thursday Only ) ( 4 - 5:15 pm & 5:20 6:45 pm)",
+        "class": "BSCS-7",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Asim Ali",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Statistical Inference with Econometrics Lab.",
+        "class": "BSAF-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Zohaib Aziz",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Political Philosophy",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCC-09",
+        "erp": "",
+        "teacher": "Irfan Muhammad",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSSS-1",
+        "room": "MCC-10",
+        "erp": "",
+        "teacher": "Babur Khan Suri",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MCC-12",
+        "erp": "",
+        "teacher": "Nassera Naushad Ali",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "English Grammar and Composition",
+        "class": "BSAF-1",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Syed Farhan Shaukat",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "China contemporary security environment",
+        "class": "BSSS-5",
+        "room": "MCC-13",
+        "erp": "",
+        "teacher": "Dr. Bilal Munshi",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Arabic - 1 ( Lab for section 2:30 pm to 3:45 pm) Wed Only",
+        "class": "BBA-5/NS",
+        "room": "MCC-14",
+        "erp": "",
+        "teacher": "Mr. M. Abdullah Yousuf Khan",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Management Accounting",
+        "class": "BBA-5",
+        "room": "MCC-15",
+        "erp": "",
+        "teacher": "Zaira Anees",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Business Law",
+        "class": "BBA-5",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Muhammad Azam",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Art and Science Tuesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "Nageen Shaikh",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Linear Algebra",
+        "class": "BSECO-3",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "Junaid Alam Khan",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Annie Ahmed",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Financial Accounting",
+        "class": "BBA-3",
+        "room": "MTC-18",
+        "erp": "",
+        "teacher": "Annie Ahmed",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Arabic - 1 ( Lab for section 2:30 pm to 3:45 pm) Wed Only",
+        "class": "BSSS-3",
+        "room": "MTC-19",
+        "erp": "",
+        "teacher": "Mr. Muhammad Naeem",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Arabic - 2 ( Lab for section 2:30 pm to 3:45 pm) Mon Only",
+        "class": "NS\\Trnsf",
+        "room": "MTC-20",
+        "erp": "",
+        "teacher": "Mr. Ubaid-ur-Rehman",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Numerical Analysis",
+        "class": "BSCS-3",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "Hisham bin Zubair Syed",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "French - 1 ( Lab for section 2:30 pm to 3:45 pm) Mon Only",
+        "class": "BSSS-3",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Saifullah Shaikh/Leroy Johns",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "French - 2 ( Lab for section 2:30 pm to 3:45 pm) Mon Only",
+        "class": "NS/Trans",
+        "room": "MTC-20A",
+        "erp": "",
+        "teacher": "Leroy Johns/ Saifullah Shaikh",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Digital Logic Design",
+        "class": "BSCS-3",
+        "room": "MTC-21",
+        "erp": "",
+        "teacher": "Salman Zafar",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Mobile Application Development",
+        "class": "BSCS-7 Elective",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Waleed",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Web based Application Development",
+        "class": "BSCS-7 Elective",
+        "room": "MTC-22",
+        "erp": "",
+        "teacher": "Sami ul Ahbab",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Digital Logic Design",
+        "class": "BSCS-3",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Muhammad Zain Uddin",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Introduction to Computer Vision",
+        "class": "BSCS-7 Elective",
+        "room": "MTC-23",
+        "erp": "",
+        "teacher": "Muhammad Sarim",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Data Warehousing",
+        "class": "BSCS-7 Elective",
+        "room": "MTC-24",
+        "erp": "",
+        "teacher": "TBA",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "German - 1 ( Lab for section 2:30 pm to 3:45 pm) Mon Only",
+        "class": "BBA-5/NS",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Rizwan Hussain",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Retailing",
+        "class": "MKT Elective",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Syed Atif Murtaza Qaise",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Introduction to Statistics",
+        "class": "BSECO-1",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Shabana Nisar",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Introduction to Differential Equations",
+        "class": "BSEM-5",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Dr. Intikhab",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Data Structures Lab Wednesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSCS-3",
+        "room": "MCL-1",
+        "erp": "",
+        "teacher": "Quratulain Rajput",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Computational Research Methods Monday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Prof Junaid Memon",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Computational Research Methods Tuesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Prof Junaid Memon",
+        "dayPair": "T/T",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Computational Research Methods Wednesday Only 2:30 pm to 3:45 pm & 4:00 to 5:15 pm",
+        "class": "BSSS-5",
+        "room": "MCL-3",
+        "erp": "",
+        "teacher": "Prof Junaid Memon",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Applied Econometrics I lab session for 2::30 pm M\\W (Monday Only )",
+        "class": "BSECO-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Dr Heman Das Lohano",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Applied Econometrics I lab session for 11::30 am M\\W (Wednesday Only )",
+        "class": "BSECO-5",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "Dr Heman Das Lohano",
+        "dayPair": "M/W",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "CED Class room (Friday from 5 pm till 9 pm)",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "2:30-3:45"
+    },
+    {
+        "course": "Financial Modeling Friday Only 6:00 to 7:15 & 7:30 pm to 8:45",
+        "class": "BSAF-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Ammar Habib",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Treasury & Funds Management Friday Only 6:00 to 7:15 & 7:30 pm to 8:45",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Tabrez",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Advanced taxation Saturday Only 6:30pm to 7:45pm & 8:00pm to 9:15 pm",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Hanif Idrees",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Analytical Approach to Marketi Saturday Only 6:30pm to 7:45pm & 8:00pm to 9:15 pm",
+        "class": "MKT Elective",
+        "room": "Online",
+        "erp": "",
+        "teacher": "Hassaan Khalid",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Introduction to Academic Writing",
+        "class": "BSECO-3",
+        "room": "MAC-7",
+        "erp": "",
+        "teacher": "Shahzeb Ahmed Hashim",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Intro to Trade Marketing Saturday Only 4:00 pm to 5:15 & 5:30 6:45 pm",
+        "class": "MKT Elective",
+        "room": "MAC-8",
+        "erp": "",
+        "teacher": "Ali Umer Usmani",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "EVENT HALL",
+        "erp": "6116",
+        "teacher": "Dr Moiz Hassan",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Socioeconomic Philosophy of Islam",
+        "class": "BBA-1",
+        "room": "EVENT HALL",
+        "erp": "6117",
+        "teacher": "Dr Moiz Hassan",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Statistical Inference with Econometrics Lab.",
+        "class": "BSAF-3",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Muhammad Najam",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Human Computer Interaction (Thursday Only ) ( 4 - 5:15 pm & 5:20 6:45 pm)",
+        "class": "BSCS-7",
+        "room": "MAS-2",
+        "erp": "",
+        "teacher": "Asim Ali",
+        "dayPair": "T/T",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Statistical Inference with Econometrics Lab.",
+        "class": "BSAF-3",
+        "room": "MAV-2",
+        "erp": "",
+        "teacher": "Zohaib Aziz",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Giving and Misgivings: Explorations in Charity, Humanitarianism, and Development",
+        "class": "BSSS-5,6,7,8",
+        "room": "MCS-3",
+        "erp": "",
+        "teacher": "Salwa Tareen",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Cities, Gender and Climate Change Tusday Only 5:30 to 6:45 and 7:00 to 8:15 pm",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Dr Nausheen Anwer",
+        "dayPair": "T/T",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Undergraduate Seminar",
+        "class": "All semesters of BSCS",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Reserved for CED",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Townhall meetings",
+        "class": "All semesters of BSCS",
+        "room": "MCS-5",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "SALES MANAGEMENT",
+        "class": "MKT Elective",
+        "room": "MTC-25",
+        "erp": "",
+        "teacher": "Syed Atif Murtaza Qaise",
+        "dayPair": "T/T",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Introduction to Statistics",
+        "class": "BSECO-1",
+        "room": "MTC-26",
+        "erp": "",
+        "teacher": "Shabana Nisar",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Introduction to Differential Equations",
+        "class": "BSEM-5",
+        "room": "MTC-27",
+        "erp": "",
+        "teacher": "Dr. Intikhab",
+        "dayPair": "M/W",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "Lab reserved for Autonomous Mobile Robotics(GRAD)",
+        "class": "",
+        "room": "MTL-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "CED Class room (Friday from 5 pm till 9 pm)",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "4:00-5:15"
+    },
+    {
+        "course": "CED Class room (Friday from 5 pm till 9 pm)",
+        "class": "",
+        "room": "MCS-4",
+        "erp": "",
+        "teacher": "",
+        "dayPair": "F/S",
+        "currentSlot": "5:30-6:45"
+    },
+    {
+        "course": "Cities, Gender and Climate Change Tusday Only 5:30 to 6:45 and 7:00 to 8:15 pm",
+        "class": "SS-elective,5,6,7,8",
+        "room": "MAV-1",
+        "erp": "",
+        "teacher": "Dr Nausheen Anwer",
+        "dayPair": "T/T",
+        "currentSlot": "5:30-6:45"
+    },
+    {
+        "course": "Financial Modeling Friday Only 6:00 to 7:15 & 7:30 pm to 8:45",
+        "class": "BSAF-5",
+        "room": "MAC-1",
+        "erp": "",
+        "teacher": "Ammar Habib",
+        "dayPair": "F/S",
+        "currentSlot": "5:30-6:45"
+    },
+    {
+        "course": "Treasury & Funds Management Friday Only 6:00 to 7:15 & 7:30 pm to 8:45",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-2",
+        "erp": "",
+        "teacher": "Tabrez",
+        "dayPair": "F/S",
+        "currentSlot": "5:30-6:45"
+    },
+    {
+        "course": "Advanced taxation Saturday Only 6:30pm to 7:45pm & 8:00pm to 9:15 pm",
+        "class": "BBA\\ACF-7 Elective",
+        "room": "MAC-3",
+        "erp": "",
+        "teacher": "Hanif Idrees",
+        "dayPair": "F/S",
+        "currentSlot": "5:30-6:45"
+    }
+]

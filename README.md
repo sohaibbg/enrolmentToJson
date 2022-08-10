@@ -1,0 +1,1 @@
+IBA, Karachi's enrolment schedule is published in a very difficult to navigate spreadsheet file. This code translates the spreadsheet into a json with accessible attributes.
